@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+}
+
+#meme{
+    width: 50%;
+    margin: 25%;
+}
+
+img{
+    height: 400px;
+    width: 100%;
+    border: 10px solid wheat
+}
+
+p{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1{
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    font-size: 3rem;
+}
